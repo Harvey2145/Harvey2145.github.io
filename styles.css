@@ -52,7 +52,7 @@
 
 position: absolute;
 top:8px;
-left:16px;
+left:200px;
 font-size: 18px;
 
 }
@@ -64,3 +64,12 @@ color: rgb(173, 53, 73);
 font-size: 50px;
 
 }
+
+
+.banana_text{
+
+  font-family: 'Style Script', cursive;
+  color:yellow;
+  font-size: 50px;
+  
+  }
