@@ -48,13 +48,11 @@
 
 }
 
-.topleft{
+.center{
 
-position: absolute;
-top:8px;
-left:200px;
-font-size: 18px;
-
+text-align: center;
+position: relative;
+top: 560px;
 }
 
 .strawberry_text{
@@ -73,3 +71,21 @@ font-size: 50px;
   font-size: 50px;
   
   }
+
+
+.kiwi_text{
+
+  font-family: 'Style Script', cursive;
+  color:rgb(23, 100, 36);
+  font-size: 50px;
+    
+    }
+
+
+.raspberry_text{
+
+  font-family: 'Style Script', cursive;
+  color:purple;
+  font-size: 50px;
+    
+      }
