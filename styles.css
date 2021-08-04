@@ -45,13 +45,14 @@
 .container {
 
   position: relative;
-
+  
 }
 
 .center{
 
 text-align: center;
 position: relative;
+
 
 }
 
@@ -102,7 +103,7 @@ font-size: 50px;
 .info{
 
   font-family: 'Amatic SC', cursive;
-  font-size: 20px;
+  font-size: 30px;
 }
 
 .strawberry_title{
