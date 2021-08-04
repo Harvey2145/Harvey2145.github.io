@@ -57,6 +57,7 @@ body {
   background-color: #aaa;
   width: 100%;
   padding: 20px;
+  position:relative;
 }
 
 /* Add a card effect for articles */
@@ -140,7 +141,7 @@ body {
 
 /* Caption text */
 .text {
-  color: black;
+  color: white;
   font-size: 15px;
   padding: 8px 12px;
   position: absolute;
