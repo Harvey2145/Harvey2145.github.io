@@ -86,29 +86,16 @@ input[type=submit]:hover {
 
 </div>
 
-
-<div class="container">
-  <form action="mailto:harvey.laker@gmail.com" method="post" enctype="text/plain">
-
-    <label for="name">Name:</label>
-    <input type="text" id="name" name="name " placeholder="Your name..">
-    
-    
-    <label for="email">Email:</label>
-    <input type="text" id="email" name="email " placeholder="Your email..">
-
-   
-
-    <label for="msg">Message:</label>
-    <textarea id="msg" name="msg " placeholder="Write something.." style="height:200px"></textarea>
-
-    <input type="submit" value="Submit ">
-
-  </form>
-
-
-</div>
-
+<form action="mail.php" method="post">
+  <label for="name">Your Name</label>
+  <input type="text"  name="name" placeholder="Your name..">
+  <label for="lname">Email</label>
+  <input type="email"  name="email" placeholder="Your email..">
+ 
+  <label for="message">Message</label>
+  <textarea  name="message" placeholder="Write something.." style="height:200px"></textarea>
+  <input type="submit" value="Submit">
+</form>
 
 </body>
 </html>
